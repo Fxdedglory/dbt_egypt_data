@@ -1,0 +1,14 @@
+version: 2
+
+models:
+  - name: fct_artifact_flows
+    columns:
+      - name: flow_id
+        tests: [not_null, unique]
+      - name: route_key
+        tests: [not_null]
+
+  - name: rpt_artifact_journey
+    columns:
+      - name: journey_label
+        tests: [not_null]

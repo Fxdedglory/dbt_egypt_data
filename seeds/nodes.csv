@@ -1,0 +1,7 @@
+node_id,name,type,country,lat,lon,active_from,active_to,credibility,notes
+CairoMuseum,The Egyptian Museum,museum,Egypt,30.0478,31.2336,1902,,0.99,Primary national museum (old)
+BM,British Museum,museum,United Kingdom,51.5194,-0.1270,1753,,0.99,Hosts Rosetta Stone
+Vatican,Vatican Museums,museum,Vatican City,41.9065,12.4537,1506,,0.9,Egyptian galleries + archives
+GizaPlateau,Giza Plateau,site,Egypt,29.9792,31.1342,-2500,,0.95,Excavation area
+RashidSite,Rashid (Rosetta) findspot,site,Egypt,31.3990,30.4179,1799,,0.9,Rosetta Stone discovery area
+UniversityAberdeen,University of Aberdeen archive,archive,United Kingdom,57.1640,-2.1010,1860,,0.8,Rediscovered Dixon wood

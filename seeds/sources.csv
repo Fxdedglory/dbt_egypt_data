@@ -1,0 +1,4 @@
+source_id,type,title,year,url_or_ref,access,notes
+S1,scholarly_article,History of the Rosetta Stone,2005,https://example.org/rs-history,open,Overview & primary refs
+S2,museum_record,BM Collection: Rosetta Stone,2024,https://example.org/bm-rosetta,open,Accession + provenance
+S3,news,Lost Great Pyramid Relic Found in Aberdeen,2019,https://example.org/aberdeen-dixon,open,Press + university record

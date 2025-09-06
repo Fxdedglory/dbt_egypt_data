@@ -1,0 +1,3 @@
+artifact_id,title,category,period,origin_node_id,origin_date_start,origin_date_end,material,status,visibility,credibility,source_ids,notes
+RS001,Rosetta Stone,stela,Ptolemaic,RashidSite,196,196,granodiorite,on_display,public,0.99,S1;S2,Captured to BM in 1801
+DXN_WOOD1,Dixon Cedar Fragment,tool,Pharaonic,GizaPlateau,-2600,-2500,cedar,in_storage,public,0.85,S3,Resurfaced at Aberdeen in 2019

@@ -1,0 +1,24 @@
+name: dbt_egypt_data
+version: 1.0.0
+config-version: 2
+profile: dbt_egypt_demo
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+macro-paths: ["macros"]
+seed-paths: ["seeds"]
+
+models:
+  dbt_egypt_demo:
+    +materialized: table   # force all models to become tables
+    staging:
+      +schema: stg
+      +materialized: table
+    marts:
+      +schema: mart
+      +materialized: table
+
+seeds:
+  dbt_egypt_demo:
+    +schema: seed
+

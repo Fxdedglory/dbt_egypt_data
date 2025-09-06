@@ -1,0 +1,3 @@
+flow_id,artifact_id,from_node_id,to_node_id,year_start,year_end,flow_type,era,credibility,source_ids,notes
+F_RS_1801,RS001,RashidSite,BM,1801,1802,looted,British_Protectorate,0.95,S1;S2,Seizure after capitulation
+F_DXN_1872,DXN_WOOD1,GizaPlateau,UniversityAberdeen,1872,2019,partage,Durable_19C_Export,0.7,S3,Dixon relics removed then rediscovered
